@@ -1,1 +1,22 @@
 # Visual-Analytic-Project---NYP
+
+**Project Title**: Visual Analytic Project
+**Date Completed**: 30-02-2022
+**Team Members**: Shermaine, Andrew, Shi Min, Zhang Xiang
+
+
+## Initiation
+### User Requirements
+The overview of our stakeholder consists of three females and four males, aged between 16 and 19, all of whom are Singaporeans. Among them are unemployed fresh graduates, students, and national service members. Their highest education level achieved is either an O-Level Certificate or a diploma in their relevant courses.
+
+## Planning
+
+## Data Understanding
+
+## Data Cleaning
+
+## Visualisation
+
+## Integration
+
+## Execution
