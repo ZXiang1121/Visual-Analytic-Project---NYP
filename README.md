@@ -64,7 +64,7 @@ A page of visuals created as example below:
 ## Integrated Power BI
 ![](./Final Project Report/ITBW21-01 Grp 1 Final Integration/ITBW21-01 Grp 1 Final Integration - 19-02-2022.pbix)
 
-![](./Final Project Report/Visual Analytic Project Final Report.docx)
+![](https://github.com/ZXiang1121/Visual-Analytic-Project---NYP/blob/main/Final%20Project%20Report/Visual%20Analytic%20Project%20Final%20Report.docx)
 
 
 
