@@ -62,7 +62,11 @@ A page of visuals created as example below:
 ![](https://user-images.githubusercontent.com/98081173/188828030-4784ce0e-429f-4015-994e-542e7caff527.png)
 
 ## Integrated Power BI
-![](Visual Analytic Project Final Report/Visual Analytic Project Final Report.docx)
+![](Final Project Report/ITBW21-01 Grp 1 Final Integration/ITBW21-01 Grp 1 Final Integration - 19-02-2022.pbix)
+
+![](Final Project Report/Visual Analytic Project Final Report.docx)
+
+
 
 ## Conclusion
 In conclusion, all the factors mentioned show that Singapore is doing its best in making Singapore a better place to live in, such as the efforts they have put in to ensure smoother public transportation and a safer environment for citizens. In addition, they also put much effort into reducing the price of local goods and ensuring quality education is open to all citizens. Also, with the many facilities provided and increased spending each year, Singapore has proved to have put much effort into ensuring high-quality healthcare. Furthermore, they provide many job opportunities to aid citizens with retrenchment. Lastly, Singapore has been ensuring affordability and accessibility for all citizens in Singapore regardless of the factor.
