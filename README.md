@@ -69,9 +69,9 @@ Process taken while developing visuals
 
 ## Integrated Power BI
 
-[Link for Power BI Visuals](Final%20Project%20Report/ITBW21-01%20Grp%201%20Final%20Integration/ITBW21-01%20Grp%201%20Final%20Integration%20-%2019-02-2022.pbix)
+[Download for Power BI Visuals](Final%20Project%20Report/ITBW21-01%20Grp%201%20Final%20Integration/ITBW21-01%20Grp%201%20Final%20Integration%20-%2019-02-2022.pbix)
 
-[Link for Final Report](Final%20Project%20Report/Visual%20Analytic%20Project%20Final%20Report.docx)
+[Download for Final Report](Final%20Project%20Report/Visual%20Analytic%20Project%20Final%20Report.docx)
 
 
 ## Conclusion
