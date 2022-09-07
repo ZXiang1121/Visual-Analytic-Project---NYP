@@ -31,17 +31,22 @@ Singapore has been ranked as the top city in Asia in terms of quality of living 
 - Transportation
 
 ### Planning Stage
-![](Images/image.png)
+!(https://user-images.githubusercontent.com/98081173/188824867-82a19821-2e2e-47a7-a575-6ec0f9ef59c3.png)
 
 ### User Requirements
 The overview of our stakeholder consists of three females and four males, aged between 16 and 19, all of whom are Singaporeans. Among them are unemployed fresh graduates, students, and national service members. Their highest education level achieved is either an O-Level Certificate or a diploma in their relevant courses.
 
 ### Interview Questions (Example)
+![](https://user-images.githubusercontent.com/98081173/188824372-689c9aae-d0dc-4baf-8eb8-43701ad4c8de.png)
 
-![image](https://user-images.githubusercontent.com/98081173/188824372-689c9aae-d0dc-4baf-8eb8-43701ad4c8de.png)
+### Gathered Responses and Benefits + Possible Datasets
+![](https://user-images.githubusercontent.com/98081173/188824946-fdaa3dc7-c901-41c3-9872-29a0ff57ad7c.png)
+
+## Perform ETL - Microsoft SQL server & Power BI
+![Dataset and Reasoning](https://user-images.githubusercontent.com/98081173/188826563-896dc75d-4d72-43ef-a290-424476821717.png)
+![Data Understanding and Cleaning](https://user-images.githubusercontent.com/98081173/188826582-ee2fcdc2-f936-4177-afbd-bcad67d42c8c.png)
 
 
-## Data Cleaning
 
 ## Visualisation
 
