@@ -62,9 +62,9 @@ A page of visuals created as example below:
 ![](https://user-images.githubusercontent.com/98081173/188828030-4784ce0e-429f-4015-994e-542e7caff527.png)
 
 ## Integrated Power BI
-![](./Final Project Report/ITBW21-01 Grp 1 Final Integration/ITBW21-01 Grp 1 Final Integration - 19-02-2022.pbix)
+![Link for Power BI Visuals](./Final Project Report/ITBW21-01 Grp 1 Final Integration/ITBW21-01 Grp 1 Final Integration - 19-02-2022.pbix)
 
-![](https://github.com/ZXiang1121/Visual-Analytic-Project---NYP/blob/main/Final%20Project%20Report/Visual%20Analytic%20Project%20Final%20Report.docx)
+![Link for Final Report](https://github.com/ZXiang1121/Visual-Analytic-Project---NYP/blob/main/Final%20Project%20Report/Visual%20Analytic%20Project%20Final%20Report.docx)
 
 
 
