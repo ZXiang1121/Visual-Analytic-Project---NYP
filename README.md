@@ -37,20 +37,20 @@ Singapore has been ranked as the top city in Asia in terms of quality of living 
 The overview of our stakeholder consists of three females and four males, aged between 16 and 19, all of whom are Singaporeans. Among them are unemployed fresh graduates, students, and national service members. Their highest education level achieved is either an O-Level Certificate or a diploma in their relevant courses.
 
 ### Interview Questions (Example)
-![](https://user-images.githubusercontent.com/98081173/188824372-689c9aae-d0dc-4baf-8eb8-43701ad4c8de.png)
+![](Images/Interview.png)
 
 ### Gathered Responses and Benefits + Possible Datasets
-![](https://user-images.githubusercontent.com/98081173/188824946-fdaa3dc7-c901-41c3-9872-29a0ff57ad7c.png)
+![](Images/Benefit%20of%20questions%20asked)
 
 ## Perform ETL - Microsoft SQL server & Power BI
 
 ### Data Understanding
 Understanding and determining right dataset was completed at the step below:
-![](https://user-images.githubusercontent.com/98081173/188826563-896dc75d-4d72-43ef-a290-424476821717.png)
+![](Images/Dataset%20and%20Reasoning)
 
 ### Data Transformation
 Cleaning and Transformation in data was completed at the step below:
-![](https://user-images.githubusercontent.com/98081173/188826582-ee2fcdc2-f936-4177-afbd-bcad67d42c8c.png)
+![](Images/Data%20Understanding%20and%20Cleaning)
 
 ## Visualisation - Power BI
 Process taken while developing visuals
