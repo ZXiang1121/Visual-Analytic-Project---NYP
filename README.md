@@ -31,7 +31,7 @@ Singapore has been ranked as the top city in Asia in terms of quality of living 
 - Transportation
 
 ### Planning Stage
-![](Images/Planning)
+![](Images/Planning.png)
 
 ### User Requirements
 The overview of our stakeholder consists of three females and four males, aged between 16 and 19, all of whom are Singaporeans. Among them are unemployed fresh graduates, students, and national service members. Their highest education level achieved is either an O-Level Certificate or a diploma in their relevant courses.
@@ -64,7 +64,7 @@ A page of visuals created as example below:
 ## Integrated Power BI
 ![Link for Power BI Visuals](Final%20Project%20Report/ITBW21-01%20Grp%201%20Final%20Integration/ITBW21-01%20Grp%201%20Final%20Integration%20-%2019-02-2022.pbix)
 
-![Link for Final Report](https://github.com/ZXiang1121/Visual-Analytic-Project---NYP/blob/main/Final%20Project%20Report/Visual%20Analytic%20Project%20Final%20Report.docx)
+![Link for Final Report](Final%20Project%20Report/Visual%20Analytic%20Project%20Final%20Report.docx)
 
 
 
