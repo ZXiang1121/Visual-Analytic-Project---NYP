@@ -40,26 +40,27 @@ The overview of our stakeholder consists of three females and four males, aged b
 ![](Images/Interview.png)
 
 ### Gathered Responses and Benefits + Possible Datasets
-![](Images/Benefit%20of%20questions%20asked)
+![](Images/Benefit%20of%20questions%20asked.png)
 
 ## Perform ETL - Microsoft SQL server & Power BI
 
 ### Data Understanding
 Understanding and determining right dataset was completed at the step below:
-![](Images/Dataset%20and%20Reasoning)
+![](Images/Dataset%20and%20Reasoning.png)
 
 ### Data Transformation
 Cleaning and Transformation in data was completed at the step below:
-![](Images/Data%20Understanding%20and%20Cleaning)
+![](Images/Data%20Understanding%20and%20Cleaning.png)
 
 ## Visualisation - Power BI
 Process taken while developing visuals
+![](Images/Create%20Visualisation.png)
 
-![](https://user-images.githubusercontent.com/98081173/188829252-327df449-9db0-447c-a52b-727a4a1bd31a.png)
+![](Images/Power%20BI%20Image.png)
 
 A page of visuals created as example below:
 
-![](https://user-images.githubusercontent.com/98081173/188828030-4784ce0e-429f-4015-994e-542e7caff527.png)
+![](Images/Visualisation2.png)
 
 ## Integrated Power BI
 ![Link for Power BI Visuals](Final%20Project%20Report/ITBW21-01%20Grp%201%20Final%20Integration/ITBW21-01%20Grp%201%20Final%20Integration%20-%2019-02-2022.pbix)
