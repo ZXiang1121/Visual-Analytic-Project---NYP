@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
-author:
+title: Visual Analytic Project
+author:Zhang Xiang
   name: Zhang Xiang
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  email: zhangxiang1121@gmail.com
+description: "Visual Analytic Project."
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
