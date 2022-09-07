@@ -31,7 +31,7 @@ Singapore has been ranked as the top city in Asia in terms of quality of living 
 - Transportation
 
 ### Planning Stage
-![](https://user-images.githubusercontent.com/98081173/188824867-82a19821-2e2e-47a7-a575-6ec0f9ef59c3.png)
+![](Images/Planning)
 
 ### User Requirements
 The overview of our stakeholder consists of three females and four males, aged between 16 and 19, all of whom are Singaporeans. Among them are unemployed fresh graduates, students, and national service members. Their highest education level achieved is either an O-Level Certificate or a diploma in their relevant courses.
