@@ -1,8 +1,8 @@
 # Site settings
 title: Visual Analytic Project
-author:Zhang Xiang
-  name: Zhang Xiang
-  email: zhangxiang1121@gmail.com
+author:
+  name: 
+  email: 
 description: "Visual Analytic Project."
 
 remote_theme: pages-themes/midnight@v0.2.0
