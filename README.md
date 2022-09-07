@@ -53,7 +53,12 @@ Cleaning and Transformation in data was completed at the step below:
 ![](https://user-images.githubusercontent.com/98081173/188826582-ee2fcdc2-f936-4177-afbd-bcad67d42c8c.png)
 
 ## Visualisation - Power BI
+Process taken while developing visuals
+![](https://user-images.githubusercontent.com/98081173/188829252-327df449-9db0-447c-a52b-727a4a1bd31a.png)
+A page of visuals created as example below:
+![](https://user-images.githubusercontent.com/98081173/188828030-4784ce0e-429f-4015-994e-542e7caff527.png)
 
-## Integration
+## Integrated Power BI
+![]()
 
 ## Execution
