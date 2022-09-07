@@ -1,7 +1,7 @@
 # Visual-Analytic-Project---NYP
 
 **Project Title**: Visual Analytic Project<br/>
-**Date Completed**: 30-02-2022<br/>
+**Date Completed**: 28-02-2022<br/>
 **Team Members**: Shermaine, Andrew, Shi Min, Zhang Xiang<br/>
 
 
@@ -73,7 +73,6 @@ Process taken while developing visuals
 ![Link for Power BI Visuals](Final%20Project%20Report/ITBW21-01%20Grp%201%20Final%20Integration/ITBW21-01%20Grp%201%20Final%20Integration%20-%2019-02-2022.pbix)
 
 ![Link for Final Report](Final%20Project%20Report/Visual%20Analytic%20Project%20Final%20Report.docx)
-
 
 
 ## Conclusion
