@@ -1,8 +1,8 @@
 # Visual-Analytic-Project---NYP
 
-**Project Title**: Visual Analytic Project
-**Date Completed**: 30-02-2022
-**Team Members**: Shermaine, Andrew, Shi Min, Zhang Xiang
+**Project Title**: Visual Analytic Project<br/>
+**Date Completed**: 30-02-2022<br/>
+**Team Members**: Shermaine, Andrew, Shi Min, Zhang Xiang<br/>
 
 
 ## Initiation
