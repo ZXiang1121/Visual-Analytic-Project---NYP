@@ -23,7 +23,7 @@ Singapore has been ranked as the top city in Asia in terms of quality of living 
 
 ## Planning
 
-**Common factors selected are:
+**Common factors selected are:**
 - Economic
 - Consumer Goods
 - Healthcare
@@ -64,7 +64,7 @@ Process taken while developing visuals
 
 ![](Images/Power%20BI%20Image.png)
 
-A page of visuals created as example below:
+### Visual Sample:
 
 ![](Images/Visualisation2.png)
 
