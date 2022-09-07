@@ -5,7 +5,7 @@
 **Team Members**: Shermaine, Andrew, Shi Min, Zhang Xiang<br/>
 
 
-## Task
+## Tasks
 
 1. Gather user requirements from key stakeholders with different cultural backgrounds and diverse needs using effective communication and interpersonal skills.
 2. Use user story approach to capture user requirements and functionalities of the required system using online collaboration tools to establish acceptance criteria and business problems.
@@ -15,19 +15,31 @@
 
 ## Project Background & Scope
 According to a popular website on the topic of living and working in Singapore1, it reported that the quality of life is often used as a shorthand for measuring how good one feels about one’s life. There are formal procedures for calculating this measure that includes factors such as economic, social, physical, political, and spiritual well-being. Singapore may be the smallest country in Southeast Asia, but it has emerged as one of the best places to live in Asia with a very high quality of life measurement.
+
 Singapore has been ranked as the top city in Asia in terms of quality of living according to global human resource consultancy, Mercer. Singapore is also regarded as the ‘Happiest country in Southeast Asia’ according to the 2018 World Happiness Report2.
 
 **Hypothesis Statement: Based on the report, it seems that Singapore is a good place to live / work in. Is this true?**
 
 ## Planning
 
+**Common factors selected are:
+- Economic
+- Consumer Goods
+- Healthcare
+- Security
+- Education
+- Transportation
+
+### Planning Stage
+![](Images/image.png)
+
 ### User Requirements
 The overview of our stakeholder consists of three females and four males, aged between 16 and 19, all of whom are Singaporeans. Among them are unemployed fresh graduates, students, and national service members. Their highest education level achieved is either an O-Level Certificate or a diploma in their relevant courses.
 
+### Interview Questions (Example)
 
-![](Images/image.png)
+![image](https://user-images.githubusercontent.com/98081173/188824372-689c9aae-d0dc-4baf-8eb8-43701ad4c8de.png)
 
-## Data Understanding
 
 ## Data Cleaning
 
